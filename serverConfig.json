@@ -1,0 +1,19 @@
+{
+  "Version": "3.0",
+  "Title": "海外现金贷统一运营平台",
+  "FixedHeader": true,
+  "HiddenSideBar": false,
+  "MultiTagsCache": false,
+  "KeepAlive": true,
+  "Locale": "zh",
+  "Layout": "vertical",
+  "Theme": "default",
+  "DarkMode": false,
+  "Grey": false,
+  "Weak": false,
+  "HideTabs": false,
+  "SidebarStatus": true,
+  "EpThemeColor": "#409EFF",
+  "ShowLogo": true,
+  "ShowModel": "smart"
+}
