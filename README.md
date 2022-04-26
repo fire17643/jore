@@ -1,2 +1,0 @@
-# jore
-admin cli
