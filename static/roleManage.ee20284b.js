@@ -1,0 +1,1 @@
+import{aw as e,o as n,c as _,w as a,a as c}from"./vendor.dc2a18cc.js";import{_ as r,c as s}from"./index.debba445.js";const l={};function u(m,p){const o=s,t=e;return n(),_(t,null,{default:a(()=>[c(o)]),_:1})}var d=r(l,[["render",u]]);export{d as default};
